@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-ldap-odm
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SHISHER
+Implementation-Vendor-Id: com.nishant.spring.boot.ldap
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/spring-boot-ldap-odm/
+Created-By: Maven Integration for Eclipse
+
